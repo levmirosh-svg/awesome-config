@@ -23,4 +23,6 @@ Download files rc.lua and theme.lua and put them in place of your same files
 
 # other
 
-wallparer is set by command "feh --bg-fill /your/file.png"
+wallparer is set by command "feh --bg-fill /your/file.png";
+
+some comments in rc.lua and binds descriptions may be in russian
